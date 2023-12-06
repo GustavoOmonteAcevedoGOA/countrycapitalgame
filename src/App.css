@@ -1,0 +1,10 @@
+#root {
+    width: 100vw;
+    padding: 2rem;
+    text-align: center;
+}
+.container {
+    width: calc(100% - 40px);
+    border: 2px solid bisque;
+    padding: 10px;
+}
